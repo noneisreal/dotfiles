@@ -11,6 +11,8 @@
 
 //@theme "$HOME/.local/share/rofi/themes/simple-tokyonight.rasi"
 
-@theme "$HOME/.local/share/rofi/themes/windows11-list-dark.rasi"
+//@theme "$HOME/.local/share/rofi/themes/windows11-list-dark.rasi"
+
 //you can change the location in here, you can clone the rofi themes and then change to like this
-//@theme "$HOME/.config/rofi/themes/windows11-list-dark.rasi"
+
+@theme "$HOME/.config/rofi/themes/windows11-list-dark.rasi"
