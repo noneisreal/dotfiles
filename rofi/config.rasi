@@ -1,14 +1,14 @@
 
-//@theme "/home/sovetskysouyz/.local/share/rofi/themes/windows11-list-dark.rasi"
+//@theme "$HOME/.local/share/rofi/themes/windows11-list-dark.rasi"
 
-//@theme "/home/sovetskysouyz/.local/share/rofi/themes/windows11-grid-dark.rasi"
+//@theme "$HOME/.local/share/rofi/themes/windows11-grid-dark.rasi"
 
-//@theme "/home/sovetskysouyz/.local/share/rofi/themes/windows11-grid-dark.rasi"
+//@theme "$HOME/.local/share/rofi/themes/windows11-grid-dark.rasi"
 
-//@theme "/home/sovetskysouyz/.local/share/rofi/themes/windows11-list-dark.rasi"
+//@theme "$HOME/.local/share/rofi/themes/windows11-list-dark.rasi"
 
-//@theme "/home/sovetskysouyz/.local/share/rofi/themes/simple-tokyonight.rasi"
+//@theme "$HOME/.local/share/rofi/themes/simple-tokyonight.rasi"
 
-//@theme "/home/sovetskysouyz/.local/share/rofi/themes/simple-tokyonight.rasi"
+//@theme "$HOME/.local/share/rofi/themes/simple-tokyonight.rasi"
 
-@theme "/home/sovetskysouyz/.local/share/rofi/themes/windows11-list-dark.rasi"
+@theme "$HOME/.local/share/rofi/themes/windows11-list-dark.rasi"
